@@ -94,5 +94,5 @@ This project is licensed under the **MIT License**, allowing anyone to use, modi
 
 ## 👩‍💻 Author
 **Aroosa Feroz**  
-BS Software Engineering — Semester 1  
+BS Software Engineering -> Semester 1  
 Graphic Designer & Beginner C++ Programmer
